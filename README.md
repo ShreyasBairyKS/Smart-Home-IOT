@@ -38,6 +38,3 @@ A complete smart home automation system built and simulated using **Cisco Packet
 | Security           | Door Sensors, IR Sensors, Fire/Gas Detectors |
 
 ---
-
-## 📁 Project Structure
-
