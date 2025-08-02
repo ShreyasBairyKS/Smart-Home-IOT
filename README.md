@@ -15,7 +15,7 @@ A complete smart home automation system built and simulated using **Cisco Packet
 
 - 🔔 **Alarm and Notification System**  
   Triggered on unauthorized access or critical conditions (fire, gas leak, etc.).
-
+ 
 - 📷 **CCTV & Camera Logic**  
   Cameras that record automatically based on motion triggers.
 
