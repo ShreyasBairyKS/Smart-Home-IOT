@@ -1,6 +1,6 @@
 # Smart Home IoT System
 
-A complete smart home automation system built and simulated using **Cisco Packet Tracer**. This project demonstrates the integration of **IoT devices, edge computing, automation scripts, and security protocols** to create an intelligent and responsive home environment.
+A complete smart home automation system built and simulated using **Cisco Packet Tracer**. This project demonstrates the integration of **IoT devices, edge computing, automation scripts, and security protocols** to create an intelligent and responsive home environment. 
 
 ## 🏠 Features
 
