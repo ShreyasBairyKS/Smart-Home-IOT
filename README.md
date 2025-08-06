@@ -2,7 +2,7 @@
 
 A complete smart home automation system built and simulated using **Cisco Packet Tracer**. This project demonstrates the integration of **IoT devices, edge computing, automation scripts, and security protocols** to create an intelligent and responsive home environment. 
   
-## 🏠 Features 
+## 🏠 Features  
 
 - 🔒 **Secure Entry System**   
   RFID-enabled doors with camera surveillance and motion sensors.
