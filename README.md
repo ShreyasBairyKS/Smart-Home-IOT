@@ -5,7 +5,7 @@ A complete smart home automation system built and simulated using **Cisco Packet
 ## 🏠 Features  
 
 - 🔒 **Secure Entry System**   
-  RFID-enabled doors with camera surveillance and motion sensors.
+  RFID-enabled doors with camera surveillance and motion sensors. 
    
 - 🚗 **Vehicle Detection and Entry**  
   IR sensor and smart gate system for automatic car recognition and entry.
