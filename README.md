@@ -22,7 +22,7 @@ A complete smart home automation system built and simulated using **Cisco Packet
 - 🌐 **Remote Access Dashboard** *(Simulated)*  
   Control and monitor devices through a central system or mobile app concept.
 
-- 🔌 **Energy Efficient Automation**  
+- 🔌 **Energy Efficient Automation**   
   Scheduled and conditional device operations for optimized energy usage.
 
 ---
